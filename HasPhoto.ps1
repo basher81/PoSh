@@ -1,3 +1,4 @@
+## Used to detect if a user has a photo associated with their Azure AD account
 Connect-AzureAD
 $outfile = "C:\temp\UserProfilePic_Report.csv"
     
